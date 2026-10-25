@@ -10,11 +10,11 @@ Files
 How to Run
 
 1. Download all three Java files and place them in the same folder.
-2. 
-3. Open a terminal in the project folder.
-4. 
-5. Compile the program:javac Burger.java BurgerShop.java BurgerShopFE_GUI.java
-6. 
-7. Run the application: java BurgerShopFE_GUI
-8. 
-9. Use the graphical interface to select burgers, add funds, place orders, and view account information.
+
+2. Open a terminal in the project folder.
+
+3. Compile the program:javac Burger.java BurgerShop.java BurgerShopFE_GUI.java
+
+4. Run the application: java BurgerShopFE_GUI
+
+5. Use the graphical interface to select burgers, add funds, place orders, and view account information.
